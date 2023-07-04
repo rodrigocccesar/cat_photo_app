@@ -4,7 +4,7 @@
 
 
 <p align="center">
-  <img alt="Preview App" src="cat_photo_app.png" width="100%">
+  <img alt="Preview App" src="cat_photo.png" width="100%">
 </p>
 
 ## 🚀 Technologies
