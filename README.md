@@ -21,5 +21,5 @@ Learn HTML by building a Cat Photo App
 
 No Copyright :wave: by https://www.freecodecamp.org
 
-- [Acesse o projeto finalizado, online](https://rodrigocccesar.github.io/cat_photo_app)
+- [Access the finished project, online](https://rodrigocccesar.github.io/cat_photo_app)
 
