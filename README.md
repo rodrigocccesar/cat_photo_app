@@ -4,16 +4,16 @@
 
 
 <p align="center">
-  <img alt="Preview App" src=".github/" width="100%">
+  <img alt="Preview App" src="cat_photo_app.png" width="100%">
 </p>
 
-## 🚀 Tecnologias
+## 🚀 Technologies
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+This project was developed with:
 
-- HTML 
+- HTML
 
-## 💻 Projeto
+## 💻 Project
 
 Learn HTML by building a Cat Photo App
 
